@@ -69,6 +69,7 @@ The easiest way to get started is using the [Google Colab Notebook](#) (https://
 Run the script locally if you have the required GPU and environment.
 
 ```bash
+python ghibli_portal_styles.py
 python ghibli_portal.py
 ```
 
