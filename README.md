@@ -102,5 +102,3 @@ Created with love and magic by Om Maheshwari .
 
 
 ---
-
-Would you like a separate version for your GitHub **project description**, a **repo banner**, or even a **logo + icon set**? Let me know and I’ll add that in style!
